@@ -1,0 +1,15 @@
+{
+  "name": "Sweet2Treat #2",
+  "description": "This is the second NFT from the Sweet2Treats collection.",
+  "image": "https://example.com/image2.png",
+  "attributes": [
+    {
+      "trait_type": "Flavor",
+      "value": "Vanilla"
+    },
+    {
+      "trait_type": "Wrapper",
+      "value": "Silver"
+    }
+  ]
+} 
